@@ -37,5 +37,3 @@ I’m a passionate Full-Stack Developer focused on delivering high-performance, 
 📫 Let's Connect:
 
 📧 Email: imranriaz306@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/php-laraval-developer-abdul-hannan/
